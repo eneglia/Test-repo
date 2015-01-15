@@ -1,6 +1,6 @@
 ## Coursera: Getting and Cleaning Data course
 
-This repository contanins all the elements required in the Course Project Peer assessments
+This repository contains all the elements required in the Course Project Peer Assessments
 
 ### Course Project
 
